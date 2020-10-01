@@ -1,5 +1,5 @@
-# number_recognizer
-handwritten number recognizer by scikit-learn
+# Number_Recognizer - Is an amazing program
+Handwritten number recognizer by scikit-learn
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
